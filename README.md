@@ -9,6 +9,7 @@ The simulator features autonomous robots battling in a grid-based arena using di
 - Inheritance
 - Polymorphism
 - Encapsulation
+
 🔄 Robot upgrade system
 🎯 Randomized battlefield interactions
 📊 Battle status and robot statistics
