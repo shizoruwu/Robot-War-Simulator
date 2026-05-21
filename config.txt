@@ -1,0 +1,5 @@
+M by N : 5 5
+steps: 1000
+robots: 2
+GenericRobot Jett 2 3
+GenericRobot Sage 3 1
